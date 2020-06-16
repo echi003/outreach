@@ -21,7 +21,7 @@ Torymidae are a diverse family of chalcid wasps that can be easily recognized by
 Torymidae are biologically extremely diverse and comprise fundamentally different life styles including: endoparasitoids of different gall-inducers on various plants (trees or herbs), parasitoids of praying mantid eggs in their egg cases (Mantodea), and ectoparasitoids of bee larvae living in twigs and stems or of larvae of bark beetles. They have also been found as endoparasitoids of the eggs of true bugs, butterfly pupa, and others (i.e. Strepsiptera parasites). Some of these life styles/host types are restricted to a single tribe or closely related tribes, whereas some have evolved convergently and are scattered throughout the family.
 
 <img src="https://sfg.taxonworks.org/s/x5blws" alt="_torymidae_" width="100%"/>
-#### A variety of cynipid (wasp) and midge (fly) galls that serve as hosts of Torymidae
+##### A variety of cynipid (wasp) and midge (fly) galls that serve as hosts of Torymidae
 
 ## Morphology
 
@@ -30,13 +30,13 @@ The following describes morphology that is useful in identifying a parasitic was
 ## Gallery
 
 <img src="https://sfg.taxonworks.org/s/1hs2kf" alt="_torymidae_" width="100%"/>
-##### _Torymus_ _rubi_ by Petr Janšta
+###### _Torymus_ _rubi_ by Petr Janšta
 
 <img src="https://sfg.taxonworks.org/s/sus0y0" alt="_torymidae_" width="100%"/>
-##### _Torymus_ _bedguaris_ by Petr Janšta
+###### _Torymus_ _bedguaris_ by Petr Janšta
 
 <img src="https://sfg.taxonworks.org/s/kmylzn" alt="_torymidae_" width="100%"/>
-##### _Torymus_ sp. by Chris Grinter
+###### _Torymus_ sp. by Chris Grinter
 
 ## Links and Credits
 
