@@ -14,7 +14,7 @@ layout: taxon_page
 
 ## Introduction
 
-Torymidae are a diverse family of chalcid wasps that can be easily recognized by their metallic body color, large hind coxae, and long ovipositor in females. This long ovipositor is used to deposit eggs onto or into their hosts. Torymidae specialize in parasitizing hosts in concealed habitats including gall-making insects and the eggs of praying mantises. They range in size from roughly 1 mm to 7 mm in length. Prior to 2017, the family was grouped into two subfamilies, Megastigminae and Toryminae. Molecular systematics suggested instead that the two subfamilies were unrelated and Megastigminae are now recognized as their own family (Janšta et al. 2017 DOI:10.1111/cla.12228). Torymidae now holds 49 genera and 890 extant species.
+Torymidae are a diverse family of chalcid wasps that can be easily recognized by their metallic body color, large hind coxae, and long ovipositor in females. This long ovipositor is used to deposit eggs onto or into their hosts. Torymidae specialize in parasitizing hosts in concealed habitats including gall-making insects and the eggs of praying mantises. They range in size from roughly 1 mm to 7 mm in length. Prior to 2017, the family was grouped into two subfamilies, Megastigminae and Toryminae. Molecular systematics suggested instead that the two subfamilies were unrelated and Megastigminae are now recognized as their own family, [Megastigmidae](http://www.waspweb.org/Chalcidoidea/Megastigmidae/index.htm) (Janšta et al. 2017 DOI:10.1111/cla.12228). Torymidae now holds 49 genera and 890 extant species.
 
 ## Biology
 
